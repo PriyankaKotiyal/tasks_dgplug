@@ -7,7 +7,9 @@ To write a program in python which will give the same output when we type /proc/
 Solution
 ----------
 1. Open the file /proc/mounts using the command open.The file will open in a r     mode i.e the read mode.
+
 2. Read and print the file by print f.read() command.
+
 3. Close the file by f.close() command.
 
 Code
