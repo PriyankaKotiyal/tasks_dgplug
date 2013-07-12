@@ -25,7 +25,18 @@ Solution:
 
 Code
 -----
+Link
+------
 The code is given here :- `link`_
 
 .. _Link: https://github.com/PriyankaKotiyal/tasks_dgplug/blob/d99add8ba1d7047191e377ee3309f6dae1f39d79/sharevalue/sharevalue.py#L1
+
+Execution
+----------
+
+We can run the program like :-
+
+$ chmod +x sharevalue.py
+
+$ python sharevalue.py <NASDAQ symbol>
 
