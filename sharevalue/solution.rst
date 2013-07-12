@@ -40,3 +40,4 @@ $ chmod +x sharevalue.py
 
 $ python sharevalue.py <NASDAQ symbol>
 
+
